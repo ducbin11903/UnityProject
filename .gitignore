@@ -1,0 +1,35 @@
+<<<<<<< HEAD
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+CMakeUserPresets.json
+=======
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+.DS_Store
+Thumbs.db
+
+*.csproj
+*.sln
+*.suo
+*.user
+*.vscode/
+*.vs/
+.idea/
+
+MemoryCaptures/
+>>>>>>> 4af224f (feat: init project)
