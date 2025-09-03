@@ -228,6 +228,16 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.valvesoftware.unity.openvr": {
+      "version": "file:D:/Download/steamvr_unity_plugin-master/steamvr_unity_plugin-master/Assets/SteamVR/OpenVRUnityXRPackage/Editor/com.valvesoftware.unity.openvr-1.2.3/package",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.unity.xr.management": "3.2.13",
+        "com.unity.ugui": "1.0.0",
+        "com.unity.xr.legacyinputhelpers": "2.1.4"
+      }
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,

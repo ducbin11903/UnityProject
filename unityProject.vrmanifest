@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vive.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\Download\\Unity_ESP32_DataGlove-main (2)\\Unity_ESP32_DataGlove-main\\Unity_Files\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR_Simulation [Testing]"
+        }
+      }
+    }
+  ]
+}

@@ -15,6 +15,7 @@
     "com.unity.xr.management": "4.4.0",
     "com.unity.xr.mock-hmd": "1.3.0-preview.1",
     "com.unity.xr.openxr": "1.9.1",
+    "com.valvesoftware.unity.openvr": "file:D:/Download/steamvr_unity_plugin-master/steamvr_unity_plugin-master/Assets/SteamVR/OpenVRUnityXRPackage/Editor/com.valvesoftware.unity.openvr-1.2.3/package",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
